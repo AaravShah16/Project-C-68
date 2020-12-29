@@ -1,0 +1,16 @@
+h1{
+    background-color: skyblue;
+    font-family: cursive;
+    font-size: 23px;
+    text-align: right;
+}
+
+img{
+    align-items: top;
+}
+head{
+    position:sticky;
+}
+h5{
+    font-size: 20px;
+}
